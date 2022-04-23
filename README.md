@@ -13,3 +13,9 @@ Task: Create test functions for all testable functions
 Challenge: All functions must be testable
 Outcome: Test functions created for all functions in Adventure.py
 Result: Successfully completed
+
+# Tic Tac Toe
+Task: Create Tic Tac Toe game using Python code
+Challenge: Use functions
+Outcome: Tic Tac Toe game created
+Result: Successfully completed
