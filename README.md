@@ -20,8 +20,32 @@ Challenge: Use functions
 Outcome: Tic Tac Toe game created
 Result: Successfully completed
 
-week4-hilo
+HiLo
 Task: Create a HiLo card game using Python code
 Challenge: Use classes, methods, and multiple files
 Outcome: HiLo cardgame created
+Result: Successfully completed
+
+Jumper
+Task: Create a Hangman game using Python code
+Challenge: Use classes, methods, and multiple files
+Outcome: Jumper game created
+Result: Successfully completed
+
+Greed
+Task: Create a Greed game using Python code and Pyray
+Challenge: Use classes, methods, and multiple files
+Outcome: Greed game created
+Result: Successfully completed
+
+Cycle
+Task: Create a Snake game using Python code and Pyray
+Challenge: Use classes, methods, and multiple files
+Outcome: Cycle game created
+Result: Successfully completed
+
+Frogger
+Task: Recreate the Frogger game using Python code and Pyray
+Challenge: Use classes, methods, and multiple files
+Outcome: Frogger game created
 Result: Successfully completed
