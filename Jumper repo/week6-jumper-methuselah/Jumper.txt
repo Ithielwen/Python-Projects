@@ -1,9 +1,0 @@
-Reference URLs
-
-https://inventwithpython.com/invent4thed/chapter8.html
-https://www.coursehero.com/file/129835664/jumperpy/
-https://byui-cse.github.io/cse210-course-competency/encapsulation/materials/jumper-specification.html
-https://gist.github.com/nathggns/b08094d78a497cdc1da2
-
-Template URL
-https://gist.github.com/MiltonLn/72f4342ee938bf45881939e43b3230dc
