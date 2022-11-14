@@ -5,6 +5,7 @@ Choose Your Own Adventure is a game where you, the player, make choices that cha
 The purpose of this assignment is to prove that you can write a significant Python program that is well organized with functions.
 
 [x] Must include multiple functions
+
 [x] Verify functions are correct with test functions and pytest
 
 ## Required Technologies
