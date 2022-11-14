@@ -14,56 +14,6 @@ Jumper is played according to the following rules:
 5. If the puzzle is solved the game is over.
 6. If the player has no more parachute the game is over.
 
-## Code Design
-
-CLASS: Words
-
-    ATTRIBUTES:
-        _words
-
-    METHODS:
-        _shuffleWords(words_list, num_shuffles)
-        resetWordsList(self, new_words)
-        appendWord(self, word)
-        getSecretWord(self)
-
-CLASS: UserInput
-
-    ATTRIBUTES:
-      _letter_guessed
-      _guessed_letter
-
-    METHODS:
-      set_guess
-      get_guess
-      set_letters_guessed
-      get_letters_guessed
-      has_guessed
-
-CLASS: Display
-
-    ATTRIBUTES:
-    *
-
-    METHODS:
-    *
-
-CLASS: GameStatus
-
-    ATTRIBUTES:
-    *
-
-    METHODS:
-    *
-
-CLASS: SecretWord
-
-    ATTRIBUTES:
-    *
-
-    METHODS:
-    *
-    
 ## Executing program
 python3 Jumper.py
 
