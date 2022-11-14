@@ -1,5 +1,3 @@
-# BYUI CSE210 - Jumper
-
 ## Overview
 
 Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time.
@@ -65,33 +63,12 @@ CLASS: SecretWord
 
     METHODS:
     *
-## Getting Started
-
-### Dependencies
-
-- python3
-- Libraries:
-  *random // used to shuffle word list
-  *pytest // Used in test files, not needed for game play
-
-### Installing
-
-- How/where to download your program
-- Any modifications needed to be made to files/folders
-
-### Executing program
-
-- Run the Program
-
-```
+    
+## Executing program
 python3 Jumper.py
-```
 
-- Test words class
-
-```
+Test words class:
 python3 test_words.py
-```
 
 ## Requirements
 
@@ -104,14 +81,8 @@ python3 test_words.py
 [X] The program must remain true to game play described in the overview.
 
 ## Authors
-
-Contributors names:
-
-Brennon Jacobson - bjjacobson@byui.edu
-Emma Hungrige - butcherem@byui.edu
-Mark Hammer - ham21019@byui.edu
-Michael Coleman - mjaycole@byui.edu
-Joel Jensen - jen21092@byui.edu
+Brennon Jacobson - bjjacobson@byui.edu; Emma Hungrige - butcherem@byui.edu; Mark Hammer - ham21019@byui.edu;
+Michael Coleman - mjaycole@byui.edu; Joel Jensen - jen21092@byui.edu
 
 ## Version History
 
@@ -123,13 +94,3 @@ Joel Jensen - jen21092@byui.edu
 
 - 2.0
   - Final Submission Phase
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-
-- [awesome-readme](https://github.com/matiassingers/awesome-readme)
