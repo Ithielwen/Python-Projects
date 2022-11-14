@@ -27,7 +27,7 @@ If a player decides not to play again the game is over.
 
 
 
-### Executing program
+## Executing program
 python3 HiLo.py
 
 
