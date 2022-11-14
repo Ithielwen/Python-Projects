@@ -2,8 +2,11 @@
 Greed is a game in which the player seeks to gather as many falling gems as possible. The game continues as long as the player wants more!
 
 Instructor: Bro. Parrish
+
 Class: CSE210
+
 Team: Methuselah
+
 Assignment: Week 08 Greed Game
 
 ## Rules
