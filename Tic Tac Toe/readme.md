@@ -3,7 +3,9 @@ Tic-Tac_toe is a game in which two players seek in alternate turns to complete a
 the spaces of a grid of nine squares.
 
 Instructor: Bro. Parrish
+
 Class: CSE210
+
 Assignment: Week 02 Tic-Tac-Toe Game
 
 ## Rules
