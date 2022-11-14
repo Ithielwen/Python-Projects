@@ -2,8 +2,11 @@
 Frogger is a game where the player helps your character (the frog) cross from the bottom of the screen to the top, avoiding deadly obstacles.
 
 Instructor: Bro. Parrish
+
 Class: CSE210
+
 Team: Methuselah
+
 Assignment: Week 13 Frogger Game
 
 ## Rules
