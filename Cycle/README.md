@@ -2,8 +2,11 @@
 Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them.
 
 Instructor: Bro. Parrish
+
 Class: CSE210
+
 Team: Methuselah
+
 Assignment: Week 10 Cycle Game
 
 ## Rules
@@ -24,7 +27,7 @@ Your program must also meet the following requirements:
 
 [X] The program must include a README file.
 
-[X] The program must include class and method comments
+[X] The program must include class and method comments.
 
 [X] The program must have at least sixteen classes.
 
