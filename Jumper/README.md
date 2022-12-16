@@ -1,5 +1,7 @@
 ## Overview
 
+<img src="jumper_gif.gif" width="50%">
+
 Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time.
 This is similar to Hangman.
 
