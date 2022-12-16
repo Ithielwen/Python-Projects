@@ -1,4 +1,7 @@
 ## Overview
+
+<img src="tictactoe_gif.gif" width="50%">
+
 Tic-Tac_toe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three x's or three o's drawn in
 the spaces of a grid of nine squares.
 
