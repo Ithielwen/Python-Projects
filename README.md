@@ -38,6 +38,9 @@ Outcome: Greed game created
 Result: Successfully completed
 
 ## [Jumper](https://github.com/Ithielwen/Python-Projects/tree/main/Jumper)
+
+<img src="Resources/jumper_gif.gif" width="50%">
+
 Task: Create a Hangman game using Python code
 
 Challenge: Use classes, methods, and multiple files
@@ -47,6 +50,9 @@ Outcome: Jumper game created
 Result: Successfully completed
 
 ## [Adventure](https://github.com/Ithielwen/Python-Projects/tree/main/Choose%20Your%20Own%20Adventure)
+
+<img src="Resources/adventure_gif.gif" width="50%">
+
 Task: Create a choice tree within Python
 
 Challenge: Only use functions & one choice tree must have three choices
@@ -65,6 +71,9 @@ Outcome: Test functions created for all functions in Adventure.py
 Result: Successfully completed
 
 ## [Tic Tac Toe](https://github.com/Ithielwen/Python-Projects/tree/main/Tic%20Tac%20Toe)
+
+<img src="Resources/tictactoe_gif.gif" width="50%">
+
 Task: Create Tic Tac Toe game using Python code
 
 Challenge: Use functions
@@ -74,6 +83,9 @@ Outcome: Tic Tac Toe game created
 Result: Successfully completed
 
 ## [HiLo](https://github.com/Ithielwen/Python-Projects/tree/main/Hi%20Lo)
+
+<img src="Resources/hilo_gif.gif" width="50%">
+
 Task: Create a HiLo card game using Python code
 
 Challenge: Use classes, methods, and multiple files
