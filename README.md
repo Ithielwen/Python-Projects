@@ -14,6 +14,9 @@ Outcome: Frogger game created
 Result: Successfully completed
 
 ## [Cycle](https://github.com/Ithielwen/Python-Projects/tree/main/Cycle)
+
+<img src="Resources/cycle_gif.gif" width="50%">
+
 Task: Create a Snake game using Python code and Pyray
 
 Challenge: Use classes, methods, and multiple files
@@ -23,20 +26,14 @@ Outcome: Cycle game created
 Result: Successfully completed
 
 ## [Greed](https://github.com/Ithielwen/Python-Projects/tree/main/Greed)
+
+<img src="Resources/greed_gif.gif" width="50%">
+
 Task: Create a Greed game using Python code and Pyray
 
 Challenge: Use classes, methods, and multiple files
 
 Outcome: Greed game created
-
-Result: Successfully completed
-
-## [Jumper](https://github.com/Ithielwen/Python-Projects/tree/main/Jumper)
-Task: Create a Hangman game using Python code
-
-Challenge: Use classes, methods, and multiple files
-
-Outcome: Jumper game created
 
 Result: Successfully completed
 
