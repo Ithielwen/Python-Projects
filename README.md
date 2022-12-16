@@ -3,7 +3,7 @@ This repository contains all large Python projects I have worked on and successf
 
 ## [Frogger](https://github.com/Ithielwen/Python-Projects/tree/main/Frogger)
 
-<img src="resources/frogger_gif.gif" width="50%">
+<img src="Resources/frogger_gif.gif" width="50%">
 
 Task: Recreate the Frogger game using Python code and Pyray
 
