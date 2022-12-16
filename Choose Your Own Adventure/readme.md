@@ -1,4 +1,7 @@
 ## Overview
+
+<img src="adventure_gif.gif" width="50%">
+
 Choose Your Own Adventure is a game where you, the player, make choices that change the story and lead you to either a good or bad ending.
 
 ## Requirements and Purpose
