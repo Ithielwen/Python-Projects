@@ -1,4 +1,7 @@
 ## Overview
+
+<img src="frogger_gif.gif" width="50%">
+
 Frogger is a game where the player helps your character (the frog) cross from the bottom of the screen to the top, avoiding deadly obstacles.
 
 Instructor: Bro. Parrish
