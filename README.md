@@ -61,12 +61,12 @@ Outcome: D&D themed "Choose Your Own Adventure"
 
 Result: Successfully completed
 
-## [Adventure-test](https://github.com/Ithielwen/Python-Projects/tree/main/Choose%20Your%20Own%20Adventure)
-Task: Create test functions for all testable functions in the prior file
+## [Rock Paper Scissors Lizard Spock](https://github.com/Ithielwen/Python-Projects/tree/main/Rock%20Paper%20Scissors%20Lizard%20Spock)
+Task: Create a Rock Paper Scissors game
 
-Challenge: All functions must be testable
+Challenge: Add in the Lizard Spock ruleset
 
-Outcome: Test functions created for all functions in Adventure.py
+Outcome: Game created using new extensive rules set
 
 Result: Successfully completed
 
