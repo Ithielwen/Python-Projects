@@ -20,10 +20,15 @@ Rock Paper Scissors Lizard Spock is played according to the following rules:
 Your program must also meet the following requirements:
 
 [X] Create a player and computer variable
+
 [X] Prompt the player to select a number between 1 and 3 with input() and store it in player
+
 [X] Use the random.randint() method to assign a number to the computer variable (1 to 3)
+
 [X] Use control flow to compare the user's choice and the computer's choice
+
 [X] Determine the winner
+
 [X] Print out who won
 
 ## Required Technologies
